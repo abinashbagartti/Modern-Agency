@@ -1,0 +1,6 @@
+{
+  "name": "Axion Studio",
+  "description": "A precise, strategy-led creative design agency landing page featuring high-performance animated shaders and immersive layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
